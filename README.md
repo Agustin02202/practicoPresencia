@@ -3,4 +3,5 @@
 
 hola vengo a hacer un conflicto
 "edito otra vez" 
-"edito en el nueva rama" 
+<<<<<<< HEAD
+"edito en el nueva rama"
